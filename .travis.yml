@@ -1,0 +1,5 @@
+laguage: cpp
+os: linux
+script:
+  - make clean
+  - make
